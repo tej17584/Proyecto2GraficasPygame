@@ -1,0 +1,16 @@
+Hola acá te coloco una serie de teclas que funcionan. Cargué el OBJ del Big Ben. Suerte y feliz día. :)
+
+Tecla 1 TrackPad: Aumentar luz periodicamente.
+Tecla 2 TrackPad: Disminuir luz a todo el modelo periódicamente.
+Tecla 0 TrackPad: Colocar luz a todo el modelo. Reset Luz full.
+Tecla . TrackPad: Colocar el modelo totalmente a oscuras. 
+Tecla 3 TrackPad: Colocar Textura Original
+Tecla 4 TrackPad: Colocar Textura de Cielo Estrellado
+Tecla 5 TrackPad: Colocar Textura de Nebulosa
+Tecla 6 TrackPad: Colocar Textura Abstracta
+Tecla 7 TrackPad: Moverse en Z-
+Tecla 8 TrackPad: Moverse en Z+
+Tecla FlechaArriba:  Y+
+tecla FlechaAbajo: Y-
+Tecla FlechaDerecha: Rotar en +X
+Tecla FlechaIzquierda: Rotar en -X
